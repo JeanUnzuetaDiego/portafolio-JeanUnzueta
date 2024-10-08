@@ -1,4 +1,11 @@
 /********************** Inicio **********************/
+.foto-perfil {
+    width: 120px;
+    height: auto;  
+    border-radius: 50%; 
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
 
 .contenido {
     background: #010101;
@@ -11,7 +18,6 @@
 .inicio{
     display: flex;
     justify-content: center;
-    
 }
 
 .inicio .titulo{
